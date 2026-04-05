@@ -1,0 +1,13 @@
+{
+  "name": "cs3200-assignment-6",
+  "version": "1.0.0",
+  "description": "Node.js with Redis and MongoDB - CS3200 Assignment 6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "redis": "^4.6.12"
+  }
+}
