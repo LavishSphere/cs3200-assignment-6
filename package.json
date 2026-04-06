@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Node.js with Redis and MongoDB - CS3200 Assignment 6",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
