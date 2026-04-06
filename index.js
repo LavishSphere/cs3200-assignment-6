@@ -35,3 +35,5 @@ async function main() {
 }
 
 main().catch(console.error);
+
+// GitHub Copilot was used for code review in all queries and this index file. For other AI use, it will be documented individually in each query file.
